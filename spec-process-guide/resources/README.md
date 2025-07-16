@@ -4,7 +4,7 @@
 <!-- Section: Resources | Level: Reference | Prerequisites: None -->
 <!-- Related: process/requirements-phase.md, templates/README.md, methodology/README.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → **Resources**
+**📍 You are here:** [Main Guide](../../README.md) → **Resources**
 
 ## Quick Navigation
 - **Apply Standards:** [Requirements Phase](../process/requirements-phase.md) - Use EARS format in practice
@@ -39,4 +39,4 @@ Curated references and learning materials to deepen your understanding of spec-d
 
 ---
 
-[← Back to Main Guide](../README.md) | [Explore Standards →](standards.md)
+[← Back to Main Guide](../../README.md) | [Explore Standards →](standards.md)

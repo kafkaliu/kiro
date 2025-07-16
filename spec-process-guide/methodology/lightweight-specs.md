@@ -4,7 +4,7 @@
 <!-- Section: Methodology | Level: Practical | Prerequisites: when-to-use.md -->
 <!-- Related: templates/quick-spec-template.md, examples/lightweight-examples.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Methodology](README.md) → **Lightweight Specs**
+**📍 You are here:** [Main Guide](../../README.md) → [Methodology](README.md) → **Lightweight Specs**
 
 ## Quick Navigation
 - **Prerequisites:** [When to Use Specs](when-to-use.md)

@@ -4,7 +4,7 @@
 <!-- Execution: Implementation | Level: Detailed Guide | Prerequisites: process/tasks-phase.md -->
 <!-- Related: templates/tasks-template.md, examples/simple-feature-spec.md, quality-assurance.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Execution Guide](README.md) → **Implementation Guide**
+**📍 You are here:** [Main Guide](../../README.md) → [Execution Guide](README.md) → **Implementation Guide**
 
 ## Quick Navigation
 - **📋 Prerequisites:** [Tasks Phase](../process/tasks-phase.md) - Learn how to create implementation plans

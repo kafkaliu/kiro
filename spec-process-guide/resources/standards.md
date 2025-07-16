@@ -4,7 +4,7 @@
 <!-- Resource: Standards | Level: Reference | Prerequisites: None -->
 <!-- Related: process/requirements-phase.md, templates/requirements-template.md, examples/simple-feature-spec.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Resources](README.md) → **Standards**
+**📍 You are here:** [Main Guide](../../README.md) → [Resources](README.md) → **Standards**
 
 ## Quick Navigation
 - **📋 Apply EARS:** [Requirements Phase](../process/requirements-phase.md) - Use EARS format in practice

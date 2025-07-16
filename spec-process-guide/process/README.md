@@ -4,7 +4,7 @@
 <!-- Section: Process | Level: Overview | Prerequisites: methodology/README.md -->
 <!-- Related: templates/README.md, prompting/strategies.md, examples/simple-feature-spec.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → **Process Guide**
+**📍 You are here:** [Main Guide](../../README.md) → **Process Guide**
 
 ## Quick Navigation
 - **Prerequisites:** [Methodology Overview](../methodology/README.md) - Understand the foundation first
@@ -62,4 +62,4 @@ Each phase builds upon the previous one, with explicit approval gates to ensure 
 - [Prompting Strategies](../prompting/README.md) - Get better AI collaboration
 - [Execution Guide](../execution/README.md) - Implement your completed specs
 
-[← Back to Main Guide](../README.md) | [Start with Requirements →](requirements-phase.md)
+[← Back to Main Guide](../../README.md) | [Start with Requirements →](requirements-phase.md)

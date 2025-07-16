@@ -4,7 +4,7 @@
 <!-- Prompting: Best Practices | Level: Practical Guide | Prerequisites: prompting/strategies.md -->
 <!-- Related: ai-reasoning/decision-frameworks.md, examples/troubleshooting-pitfalls.md, templates/README.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Prompting Strategies](README.md) → **Best Practices**
+**📍 You are here:** [Main Guide](../../README.md) → [Prompting Strategies](README.md) → **Best Practices**
 
 ## Quick Navigation
 - **📚 Learn Strategies:** [Prompting Strategies](strategies.md) - Core approaches first

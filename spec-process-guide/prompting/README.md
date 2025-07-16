@@ -4,7 +4,7 @@
 <!-- Section: Prompting | Level: Overview | Prerequisites: methodology/README.md -->
 <!-- Related: process/README.md, ai-reasoning/decision-frameworks.md, templates/README.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → **Prompting Strategies**
+**📍 You are here:** [Main Guide](../../README.md) → **Prompting Strategies**
 
 ## Quick Navigation
 - **Foundation:** [Methodology Overview](../methodology/README.md) - Understand spec-driven development first
@@ -40,4 +40,4 @@ Effective prompting for spec development follows these principles:
 
 ---
 
-[← Back to Main Guide](../README.md) | [Learn Core Strategies →](strategies.md)
+[← Back to Main Guide](../../README.md) | [Learn Core Strategies →](strategies.md)

@@ -419,4 +419,4 @@ This document provides concrete examples of AI reasoning during spec development
 
 ---
 
-[← Back to Decision Frameworks](decision-frameworks.md) | [Main AI Reasoning Guide](README.md) | [Back to Main Guide](../README.md)
+[← Back to Decision Frameworks](decision-frameworks.md) | [Main AI Reasoning Guide](README.md) | [Back to Main Guide](../../README.md)

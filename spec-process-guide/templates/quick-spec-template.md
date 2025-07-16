@@ -4,7 +4,7 @@
 <!-- Section: Templates | Level: Practical | Prerequisites: ../methodology/lightweight-specs.md -->
 <!-- Related: micro-spec-template.md, requirements-template.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Templates](README.md) → **Quick Spec Template**
+**📍 You are here:** [Main Guide](../../README.md) → [Templates](README.md) → **Quick Spec Template**
 
 ## Quick Navigation
 - **Prerequisites:** [Lightweight Specs](../methodology/lightweight-specs.md)

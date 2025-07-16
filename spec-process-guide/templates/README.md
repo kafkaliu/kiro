@@ -4,7 +4,7 @@
 <!-- Section: Templates | Level: Reference | Prerequisites: None -->
 <!-- Related: process/README.md, examples/README.md, resources/standards.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → **Templates**
+**📍 You are here:** [Main Guide](../../README.md) → **Templates**
 
 ## Quick Navigation
 - **Learn Process:** [Process Guide](../process/README.md) - Understand how to use these templates
@@ -54,4 +54,4 @@ Each template includes:
 
 ---
 
-[← Back to Main Guide](../README.md) | [Get Requirements Template →](requirements-template.md)
+[← Back to Main Guide](../../README.md) | [Get Requirements Template →](requirements-template.md)

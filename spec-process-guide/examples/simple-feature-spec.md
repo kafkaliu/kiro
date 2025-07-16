@@ -4,7 +4,7 @@
 <!-- Example: Simple Features | Level: Complete Examples | Prerequisites: methodology/README.md -->
 <!-- Related: templates/README.md, process/README.md, complex-system-spec.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Examples](README.md) → **Simple Feature Specs**
+**📍 You are here:** [Main Guide](../../README.md) → [Examples](README.md) → **Simple Feature Specs**
 
 ## Quick Navigation
 - **📚 Learn First:** [Methodology Overview](../methodology/README.md) - Understand the foundation

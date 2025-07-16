@@ -4,7 +4,7 @@
 <!-- Example: Troubleshooting | Level: Problem Solving | Prerequisites: process/README.md -->
 <!-- Related: prompting/best-practices.md, execution/troubleshooting.md, case-studies.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → [Examples](README.md) → **Troubleshooting & Pitfalls**
+**📍 You are here:** [Main Guide](../../README.md) → [Examples](README.md) → **Troubleshooting & Pitfalls**
 
 ## Quick Navigation
 - **📋 Learn Process:** [Process Guide](../process/README.md) - Avoid pitfalls with systematic approach

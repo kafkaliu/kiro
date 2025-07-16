@@ -4,7 +4,7 @@
 <!-- Section: Methodology | Level: Overview | Prerequisites: None -->
 <!-- Related: process/README.md, examples/simple-feature-spec.md, prompting/strategies.md -->
 
-**📍 You are here:** [Main Guide](../README.md) → **Methodology**
+**📍 You are here:** [Main Guide](../../README.md) → **Methodology**
 
 ## Quick Navigation
 - **Next Step:** [Process Guide](../process/README.md) - Learn the step-by-step workflow
